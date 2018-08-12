@@ -69,7 +69,7 @@ body{
 }
 
 .side-nav a:hover{
-  color:#04375B;
+  color:#1CCAC6;
 }
 
 .side-nav .btn-close{
@@ -87,10 +87,10 @@ body{
   width:100%;
 }
 
-@media(max-width:568px){
+@media(max-width:650px){
   .navbar-nav{display:none}
 }
 
-@media(min-width:568px){
+@media(min-width:650px){
   .open-slide{display:none}
 }
